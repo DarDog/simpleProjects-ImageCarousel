@@ -1,0 +1,14 @@
+.slider {
+  position: absolute;
+  top: 43%;
+  cursor: pointer;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 1rem;
+  transition: .6s ease;
+  user-select: none;
+}
+.slider:hover {
+  background: rgba(0, 0, 0, 0.5);
+}
