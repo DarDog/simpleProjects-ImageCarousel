@@ -1,0 +1,12 @@
+@import url('../blocks/body/body.css');
+@import url('../blocks/container/container.css');
+@import url('../blocks/image-container/image-container.css');
+@import url('../blocks/image-container/_active/image-container_active.css');
+@import url('../blocks/fade/fade.css');
+@import url('../blocks/image/image.css');
+@import url('../blocks/slider/slider.css');
+@import url('../blocks/slider/_type/slider_type_prev.css');
+@import url('../blocks/slider/_type/slider_type_next.css');
+@import url('../blocks/dots/dots.css');
+@import url('../blocks/dot/dot.css');
+@import url('../blocks/dot/_active/dor_active.css');
